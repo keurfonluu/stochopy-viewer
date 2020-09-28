@@ -7,18 +7,6 @@ stochopy-viewer
 
 |GUI|
 
-.. |License| image:: https://img.shields.io/github/license/keurfonluu/stochopy-viewer
-   :target: https://github.com/keurfonluu/stochopy-viewer/blob/master/LICENSE
-
-.. |Stars| image:: https://img.shields.io/github/stars/keurfonluu/stochopy-viewer?logo=github
-   :target: https://github.com/keurfonluu/stochopy-viewer
-
-.. |Code style: black| image:: https://img.shields.io/badge/code%20style-black-000000.svg?style=flat
-   :target: https://github.com/psf/black
-
-.. |GUI| image:: https://github.com/keurfonluu/stochopy-viewer/blob/master/.github/stochopy_viewer.png?raw=true
-   :alt: stochopy_viewer
-
 Installation
 ------------
 
@@ -50,3 +38,15 @@ Otherwise, in a Python script:
    from stochopy_viewer import main
 
    main()
+
+.. |License| image:: https://img.shields.io/github/license/keurfonluu/stochopy-viewer
+   :target: https://github.com/keurfonluu/stochopy-viewer/blob/master/LICENSE
+
+.. |Stars| image:: https://img.shields.io/github/stars/keurfonluu/stochopy-viewer?logo=github
+   :target: https://github.com/keurfonluu/stochopy-viewer
+
+.. |Code style: black| image:: https://img.shields.io/badge/code%20style-black-000000.svg?style=flat
+   :target: https://github.com/psf/black
+
+.. |GUI| image:: https://github.com/keurfonluu/stochopy-viewer/blob/master/.github/stochopy_viewer.png?raw=true
+   :alt: stochopy_viewer
